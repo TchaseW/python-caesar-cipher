@@ -23,3 +23,15 @@ def decrypt(text, shift):
 
 encrypted_text = encrypt('freeCodeCamp', 3)
 print(encrypted_text)
+
+# Test Cases
+
+print("Testing Caesar Cipher:")
+
+# Test encryption
+print(encrypt("HELLO", 3))  # Expected: KHOOR
+print(encrypt("CAT", 2))    # Expected: ECV
+
+# Test decryption
+print(decrypt("KHOOR", 3))  # Expected: HELLO
+print(decrypt("ECV", 2))    # Expected: CAT
