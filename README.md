@@ -14,8 +14,6 @@ This project is a Python implementation of a Caesar Cipher, an introductory encr
 - Using functions and conditional statements
 - Understanding basic encryption concepts
 
-## Learning Experience
-
 ## Testing
 
 The program was tested using multiple encryption and decryption examples to verify that it produces the expected results.
@@ -43,6 +41,7 @@ Through this project, I practiced:
 - Using encryption and decryption logic.
 - Testing code with different inputs.
 - Identifying and verifying expected program outputs.
+ts.
 
 I completed this project as part of my Python programming coursework through freeCodeCamp. It helped me practice programming concepts and develop my problem-solving skills.
 
